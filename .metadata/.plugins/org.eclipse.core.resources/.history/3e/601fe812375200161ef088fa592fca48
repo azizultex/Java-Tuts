@@ -1,0 +1,13 @@
+
+public class math {
+
+	public static void main(String[] args) {
+		int a=34, b=-346, c=345.4;
+		
+		System.out.println("Math ceil" + a " : " + Math.ceil(a));
+		System.out.println("Math ceil" + b " : " + Math.ceil(b));
+		System.out.println("Math ceil" + c " : " + Math.ceil(c));
+		
+	}
+
+}

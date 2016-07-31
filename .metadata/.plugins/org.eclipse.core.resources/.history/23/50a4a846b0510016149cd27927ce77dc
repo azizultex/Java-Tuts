@@ -1,0 +1,22 @@
+package firstjava;
+
+public class forloop {
+
+	public static void main(String[] args) {
+		
+		int[] names = {34, 55, 24};
+		
+		System.out.println( new String(names) );
+		
+//		for(String name : names) {
+//			System.out.println(name);
+//		}
+		
+//		int i;
+//		for( i = 5; i<50; i++) {
+//			System.out.println(i);
+//		}
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+import java.util.Arrays;
+import java.util.Random;
+public class ArrayElAsCounter {
+
+	public static void main(String[] args) {
+		Random rand = new Random();
+		int freq[] = new int[7];
+		
+		for(int roll=1;roll<5;roll++) {
+			System.out.println(1+rand.nextInt(6));
+			++freq[1+rand.nextInt(6)];
+		}
+		
+		System.out.println(Arrays.toString(freq));
+	}
+
+}

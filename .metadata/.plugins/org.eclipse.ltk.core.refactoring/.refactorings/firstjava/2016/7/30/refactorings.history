@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;firstjava.forloop.main().names&apos; in &apos;firstjava.forloop.main()&apos; to field&#x0A;- Original project: &apos;firstjava&apos;&#x0A;- Original element: &apos;firstjava.forloop.main().names&apos;&#x0A;- Field name: &apos;names&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;names&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;firstjava{forloop.java" name="names" selection="100 35" stamp="1468992674429" static="true" version="1.0" visibility="2"/>
+</session>

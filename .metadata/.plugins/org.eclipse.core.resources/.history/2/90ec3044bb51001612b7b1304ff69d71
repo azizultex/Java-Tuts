@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class UserInput3 {
+
+	public static void main(String[] args) {
+		Scanner azizultex = new Scanner( System.in);
+		System.out.println(azizultex.nextLine());
+	}
+
+}

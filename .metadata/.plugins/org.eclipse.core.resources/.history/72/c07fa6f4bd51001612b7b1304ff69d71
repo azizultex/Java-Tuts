@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class UserInput3 {
+
+	public static void main(String[] args) {
+		Scanner azizultex = new Scanner( System.in);
+		
+		System.out.println("Enter first value:");
+		String firstv = azizultex.nextLine();
+		
+		System.out.println("Enter second value:\t");
+		int secv = azizultex.nextInt();
+		
+		System.out.println("\nYour first value is:\t" + firstv);
+		System.out.println("Your second value is:\t" + secv);
+	}
+
+}

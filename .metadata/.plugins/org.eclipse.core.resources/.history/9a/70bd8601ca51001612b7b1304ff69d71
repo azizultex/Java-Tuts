@@ -1,0 +1,12 @@
+
+public class ClassObj {
+
+	public static void main(String[] args) {
+		Human azizultex = new Human();
+		
+		azizultex.name("Azizul");
+		azizultex.age(24);
+		azizultex.country("BD");
+	}
+
+}

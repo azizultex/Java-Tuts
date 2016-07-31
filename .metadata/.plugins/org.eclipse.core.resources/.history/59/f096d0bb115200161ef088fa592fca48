@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class girlfriend {
+
+	public static void main(String[] args) {
+		
+		Scanner getinput = new Scanner(System.in);
+		GirlFrindClass gf = new GirlFriendClass();
+		
+		
+
+	}
+
+}

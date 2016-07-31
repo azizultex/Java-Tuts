@@ -1,0 +1,12 @@
+
+public class ArrayInMethod {
+
+	public static void main(String[] args) {
+		int grade[] = {4, 6, 9, 12};
+		
+		for( int g:grade) {
+			System.out.println(g);
+		}
+	}
+
+}
